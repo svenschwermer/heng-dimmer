@@ -1,0 +1,7 @@
+*.o
+*.elf
+gerber/
+*-cache.lib
+*.kicad_pcb-bak
+*.sch-bak
+*.FCStd1
