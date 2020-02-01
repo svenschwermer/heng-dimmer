@@ -1,3 +1,8 @@
+/*
+    This code is inspired by Peter Dannegger's code:
+    https://www.mikrocontroller.net/articles/Drehgeber#Solide_L.C3.B6sung:_Beispielcode_in_C
+*/
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "encoder.h"
