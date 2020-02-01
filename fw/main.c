@@ -1,7 +1,6 @@
 #include "encoder.h"
 #include <avr/io.h>
 #include <avr/interrupt.h>
-#include <util/delay.h>
 #include <stdbool.h>
 
 #define MAX_BRIGHTNESS 7
