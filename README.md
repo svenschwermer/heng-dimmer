@@ -14,6 +14,8 @@ The user adjusts the PWM duty cycle (i.e. brightness) via a rotary encoder that
 includes a push button switch. The wires are soldered directly to the underside
 of the circuit board. Holes allow to install cable ties as strain relief.
 
+The PCB is shared on [OSH Park][4].
+
 ## Firmware
 The program configures the timer to run in fast PWM mode with a prescaler of 8.
 Since I didn't change the clocking fuses, the microcontroller runs at 1.2MHz.
@@ -49,3 +51,4 @@ base of the lamp using cable ties.
 [1]:https://www.kickstarter.com/projects/1458079400/heng-balance-lamp-a-unique-lamp-with-switch-in-mid
 [2]:https://www.onsemi.com/pub/Collateral/BUZ11-D.PDF
 [3]:http://ww1.microchip.com/downloads/en/DeviceDoc/doc8126.pdf
+[4]:https://oshpark.com/shared_projects/AtPNl2Sx
